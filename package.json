@@ -1,0 +1,15 @@
+{
+  "name": "mtm6407-static-site-ranashekhar192",
+  "version": "1.0.0",
+  "description": "Builty with 11ty",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@11ty/eleventy": "^3.0.0"
+  }
+}
