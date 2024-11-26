@@ -1,6 +1,10 @@
+---
+layout: page-layout.njk
+title: My Projects
+---
+
 # Projects
 
-Here are some beginner-friendly web development projects:
 
 1. **Simple Portfolio Website**  
    A personal portfolio site to showcase your work and skills. This project includes:  

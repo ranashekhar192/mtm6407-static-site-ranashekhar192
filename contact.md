@@ -1,3 +1,8 @@
+---
+layout: page-layout.njk
+title: Contact
+---
+
 # Get in Touch
 
 Have questions, ideas, or opportunities you'd like to share? I’d love to hear from you! Here’s how you can reach me:

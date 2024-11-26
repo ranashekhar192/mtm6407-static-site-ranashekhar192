@@ -1,3 +1,8 @@
+---
+layout: page-layout.njk
+title: Blog
+---
+
 # Blog
 
 Welcome to my blog! Here are some of my recent posts:
